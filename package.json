@@ -69,7 +69,7 @@
     "classnames": "*",
     "copy-webpack-plugin": "^5.0.3",
     "history": "^4.9.0",
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.3",
     "jsonwebtoken": "^8.5.1",
     "prop-types": "*",
     "react": "^16.8.6",
