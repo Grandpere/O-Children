@@ -67,7 +67,7 @@
     "@babel/polyfill": "*",
     "axios": "*",
     "classnames": "*",
-    "copy-webpack-plugin": "^5.0.3",
+    "copy-webpack-plugin": "8.1.1",
     "history": "^4.9.0",
     "http-server": "^0.12.3",
     "jsonwebtoken": "^8.5.1",
