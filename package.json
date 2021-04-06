@@ -47,7 +47,6 @@
     "tslint": "^5.16.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-react": "^4.0.0",
-    "uglifyjs-webpack-plugin": "*",
     "webpack": "^4.31.0",
     "webpack-cli": "*",
     "webpack-dev-server": "*"
@@ -86,6 +85,7 @@
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.1",
     "shuffle-array": "^1.0.1",
+    "terser-webpack-plugin": "^5.1.1",
     "url-loader": "^1.1.2"
   }
 }
