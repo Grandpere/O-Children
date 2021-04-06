@@ -47,7 +47,7 @@
     "tslint": "^5.16.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-react": "^4.0.0",
-    "webpack": "^4.31.0",
+    "webpack": "5.30.0",
     "webpack-cli": "*",
     "webpack-dev-server": "*"
   },
